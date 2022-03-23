@@ -1,8 +1,10 @@
 # Awesome Test Automation
 
+## Auto Gen Auto
+*[open api generator](https://github.com/victoryshining/openapi-generator)
+*[Spring cloud contract] (https://spring.io/projects/spring-cloud-contract)
 
-
-以下链接来自于源Repository
+以下链接来自于源Repository <br>
 curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages to help software engineers easily bootstrap test automation upon necessity. Sponsored by http://sdclabs.com
 
 * [python test automation](https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md) 
